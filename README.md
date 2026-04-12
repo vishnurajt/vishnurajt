@@ -2,7 +2,7 @@
 # Hi, I'm Vishnuraj T 👋
 
 Python Backend Engineer from Kerala, India.
-3.5 years of experience building backend systems and APIs.
+3.2 years of experience building backend systems and APIs.
 Currently refreshing my skills and building portfolio projects.
 
 ---
