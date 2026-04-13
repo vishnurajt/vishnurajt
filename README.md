@@ -1,66 +1,84 @@
-## Hi there 👋
-# Hi, I'm Vishnuraj T 👋
+## Hi, I'm Vishnuraj T 👋
 
-Python Backend Engineer from Kerala, India.
-3.2 years of experience building backend systems and APIs.
-Currently refreshing my skills and building portfolio projects.
+Python Backend Engineer with 3+ years of experience building scalable APIs, backend systems, and data pipelines. Experienced in designing production-grade services using FastAPI, SQLAlchemy, and cloud-native tools. Currently focused on building and showcasing robust backend projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python  
-**Frameworks:** FastAPI, SQLAlchemy  
-**Databases:** PostgreSQL, SQLite  
-**Tools:** Docker, Alembic, JWT, Pydantic, pytest  
-**Cloud:** Azure (AKS, Azure Service Bus), Railway  
-**Other:** Robot Framework, Pandas, InfluxDB, Grafana  
+**Languages:** Python
+**Backend:** FastAPI, SQLAlchemy
+**Databases:** PostgreSQL, SQLite, InfluxDB
+**Tools & Libraries:** Docker, Alembic, JWT, Pydantic, pytest
+**Cloud & DevOps:** Azure (AKS, Service Bus), Railway
+**Data & Monitoring:** Pandas, Grafana
+**Testing:** Robot Framework, pytest
 
 ---
 
 ## 🚀 Projects
 
-### FastAPI Learning Project
-A production-grade REST API built while relearning FastAPI.
+### FastAPI Backend System
 
-**Features:**
-- Full CRUD for Users and Items
-- JWT Authentication (register, login, protected routes)
-- Password hashing with bcrypt
-- Response models — password never exposed
-- Global error handling (400, 401, 404, 422, 500)
-- Background tasks
-- Dockerized with PostgreSQL
-- Deployed on Railway with Alembic migrations
+Production-ready REST API with authentication, database modeling, and deployment.
 
-**Tech:** FastAPI · SQLAlchemy · PostgreSQL · Docker · Alembic · pytest  
-**Live:** https://fastapi-learning-production.up.railway.app/docs  
-**Code:** https://github.com/vishnurajt/fastapi-learning-project
+**Key Features:**
+
+* JWT-based authentication (register, login, protected routes)
+* Secure password hashing using bcrypt
+* Full CRUD operations for users and resources
+* Structured response models ensuring sensitive data protection
+* Global exception handling with consistent error responses
+* Background task processing
+* Dockerized application with PostgreSQL
+* Deployed on Railway with Alembic migrations
+
+**Architecture Highlights:**
+
+* Modular design using FastAPI `APIRouter`
+* Dependency Injection (`Depends`) for database sessions and authentication
+* Clear separation of concerns (routers, models, schemas, core logic)
+* Pydantic models for strict validation and response control
+* SQLAlchemy ORM for database abstraction
+
+**Tech Stack:** FastAPI · SQLAlchemy · PostgreSQL · Docker · Alembic · pytest
+
+🔗 Live API: https://fastapi-learning-production.up.railway.app/docs
+🔗 Code: https://github.com/vishnurajt/fastapi-learning-project
 
 ---
 
 ## 💼 Work Experience
 
-**Python Backend Engineer — SADA Systems India Pvt Ltd (Apr 2021 – Jul 2024)**
+**Python Backend Engineer — SADA Systems India Pvt Ltd**
+*Apr 2021 – Jul 2024*
 
-- Built enterprise industrial data platform for UK client (IMI Critical Engineering)
-- Full pipeline: FastAPI → Azure Service Bus → Data Validator → InfluxDB → Grafana
-- 4 industrial applications: Attemperator, Turbine Bypass, Drum Level Control, Pump Recirculation
-- Deployed on AKS across Dev, Stage, Production
-- Built Robot Framework automation suite — cut manual testing time by 50%
-- Direct weekly communication with UK engineering team
+* Designed and built production APIs and backend services for industrial and healthcare applications
+* Developed a multi-service data pipeline: FastAPI → Azure Service Bus → Data Validator → InfluxDB → Grafana
+* Implemented data validation and transformation pipelines using Pandas
+* Built calculation engines supporting 13+ industrial use cases
+* Deployed containerized services on Azure Kubernetes Service (AKS) across multiple environments
+* Developed automated testing pipelines using Robot Framework, reducing manual testing effort by 50%
+* Collaborated directly with international clients to translate engineering requirements into backend solutions
+
+---
+
+## 🌱 Current Focus
+
+* Building production-grade FastAPI backend systems
+* Strengthening system design and API architecture
+* Preparing for backend engineering roles
 
 ---
 
 ## 📫 Contact
 
-- **Email:** vishnuraj.therayikkal@gmail.com
-- **LinkedIn:** linkedin.com/in/vishnurajtherayikkal
-- **Location:** Kerala, India
+📧 Email: [vishnuraj.therayikkal@gmail.com](mailto:vishnuraj.therayikkal@gmail.com)
+🔗 LinkedIn: linkedin.com/in/vishnurajtherayikkal
+📍 Location: Kerala, India
 
 ---
 
-## 🌱 Currently
+## 💡 Open To Opportunities
 
-- Currently building production-grade FastAPI projects and preparing for backend engineering roles
-
+Actively seeking Python Backend Engineer and Full Stack Python roles. Available for immediate joining.
