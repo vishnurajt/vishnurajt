@@ -62,7 +62,5 @@ A production-grade REST API built while relearning FastAPI.
 
 ## 🌱 Currently
 
-- Building portfolio projects in Python/FastAPI
-- Open to Python Backend Engineer and Full Stack Python roles
-- Available for immediate joining
+- Currently building production-grade FastAPI projects and preparing for backend engineering roles
 
