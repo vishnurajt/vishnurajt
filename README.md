@@ -6,13 +6,13 @@ Python Backend Engineer with 3+ years of experience building scalable APIs, back
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python
-**Backend:** FastAPI, SQLAlchemy
-**Databases:** PostgreSQL, SQLite, InfluxDB
-**Tools & Libraries:** Docker, Alembic, JWT, Pydantic, pytest
-**Cloud & DevOps:** Azure (AKS, Service Bus), Railway
-**Data & Monitoring:** Pandas, Grafana
-**Testing:** Robot Framework, pytest
+**Languages:** Python  
+**Backend:** FastAPI, SQLAlchemy  
+**Databases:** PostgreSQL, SQLite, InfluxDB  
+**Tools & Libraries:** Docker, Alembic, JWT, Pydantic, pytest  
+**Cloud & DevOps:** Azure (AKS, Service Bus), Railway  
+**Data & Monitoring:** Pandas, Grafana  
+**Testing:** Robot Framework, pytest  
 
 ---
 
