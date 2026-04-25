@@ -18,7 +18,7 @@ Python Backend Engineer with 3+ years of experience building scalable APIs, back
 
 ## 🚀 Projects
 
-### Task Management API
+### TaskFlow Backend
 A backend API for managing tasks with user authentication and ownership.
 
 **Features:**
