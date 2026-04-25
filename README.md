@@ -18,6 +18,21 @@ Python Backend Engineer with 3+ years of experience building scalable APIs, back
 
 ## 🚀 Projects
 
+### Task Management API
+A backend API for managing tasks with user authentication and ownership.
+
+**Features:**
+- JWT Authentication — each user sees only their own tasks
+- Full CRUD with priority levels and status tracking
+- Filtering, search and pagination
+- PostgreSQL + Alembic migrations
+- Dockerized and deployed on Railway
+
+**Tech:** FastAPI · SQLAlchemy · PostgreSQL · Docker · Alembic · pytest  
+**Live:** https://task-management-api-production-49fc.up.railway.app/docs 
+**Code:** https://github.com/vishnurajt/task-management-api
+
+---
 ### FastAPI Backend System
 
 Production-ready REST API with authentication, database modeling, and deployment.
